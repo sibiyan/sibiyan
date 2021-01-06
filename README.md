@@ -7,5 +7,4 @@
 - 💬 Ask me about ...django react and VBA
 - 📫 How to reach me: ...sibiyan9030@gmail.com
 - 😄 Pronouns: ...swalih
-- ⚡ Fun fact: ...my wife say coding is like computer game for me :)
--->
+- ⚡ Fun fact: ...my wife says coding is like computer game for me :)
